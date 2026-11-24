@@ -1,0 +1,217 @@
+[[titles]]
+name = "Donkey Kong Bananza"
+title_id = "040074A01BF12000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AAACA1BS0055J"
+required_firmware = "19.1.0"
+released = "2025-07-17"
+[[titles.updates]]
+version = "1.1.0"
+released = "2025-07-16"
+[[titles.updates]]
+version = "2.0.0"
+released = "2025-09-12"
+[[titles.updates]]
+version = "2.0.1"
+released = "2025-09-23"
+[[titles.updates]]
+version = "2.0.2"
+released = "2025-10-21"
+[[titles.updates]]
+version = "3.0.0"
+released = "2025-12-21"
+[[titles.updates]]
+version = "3.1.0"
+released = "2026-01-21"
+[[titles.updates]]
+version = "3.2.0"
+released = "2026-02-24"
+
+[[titles]]
+name = "Fire Emblem: Fortune's Weave"
+title_id = "04007EF01F8AE000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AACSA5BS0067X"
+required_firmware = "22.1.0"
+released = "2026-09-10"
+[[titles.updates]]
+version = "1.0.1"
+released = "2026-09-17"
+[[titles.updates]]
+version = "1.1.0"
+released = "2026-10-15"
+
+[[titles]]
+name = "Kirby Air Riders"
+title_id = "040077201BE50000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AAABA1BS005X2"
+required_firmware = "<=20.1.5"
+released = "2025-10-20"
+[[titles.updates]]
+version = "1.1.1"
+released = "2025-10-20"
+[[titles.updates]]
+version = "1.2.0"
+released = "2025-12-12"
+[[titles.updates]]
+version = "1.3.0"
+released = "2026-01-27"
+[[titles.updates]]
+version = "1.3.1"
+released = "2026-02-25"
+[[titles.updates]]
+version = "1.3.2"
+released = "2026-03-13"
+[[titles.updates]]
+version = "1.3.3"
+released = "2026-06-03"
+[[titles.updates]]
+version = "1.3.4"
+released = "2026-11-05"
+
+[[titles]]
+name = "Mario Kart World"
+title_id = "0400C3F00006E000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AAAAA3BS00547"
+required_firmware = "19.1.0"
+released = "2025-06-05"
+[[titles.updates]]
+version = "1.1.0"
+released = "2026-06-17"
+[[titles.updates]]
+version = "1.1.1"
+released = "2026-06-18"
+[[titles.updates]]
+version = "1.1.2"
+released = "2026-06-27"
+[[titles.updates]]
+version = "1.2.0"
+released = "2026-07-30"
+[[titles.updates]]
+version = "1.2.1"
+released = "2026-08-19"
+[[titles.updates]]
+version = "1.3.0"
+released = "2026-09-24"
+[[titles.updates]]
+version = "1.4.0"
+released = "2025-12-03"
+[[titles.updates]]
+version = "1.4.1"
+released = "2025-12-16"
+[[titles.updates]]
+version = "1.5.0"
+released = "2026-01-22"
+[[titles.updates]]
+version = "1.6.0"
+released = "2026-03-31"
+[[titles.updates]]
+version = "1.6.1"
+released = "2026-04-10"
+[[titles.updates]]
+version = "1.7.0"
+released = "2026-07-01"
+[[titles.updates]]
+version = "1.8.0"
+released = "2026-09-10"
+required_firmware = "23.0.1"
+
+[[titles]]
+name = "Pokémon Legends: Z-A"
+title_id = "0100F43008C44000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "ALZLB6NS0058F"
+required_firmware = "20.1.5"
+released = "2025-10-16"
+[[titles.updates]]
+version = "1.0.1"
+released = "2025-10-16"
+[[titles.updates]]
+version = "1.0.2"
+released = "2025-11-06"
+[[titles.updates]]
+version = "1.0.3"
+released = "2025-11-27"
+[[titles.updates]]
+version = "2.0.0"
+released = "2025-12-10"
+[[titles.updates]]
+version = "2.0.1"
+released = "2026-01-22"
+[[titles.updates]]
+version = "2.0.2"
+released = "2026-03-19"
+
+[[titles]]
+name = "Splatoon Raiders"
+title_id = "0400380020056000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AADLA1BS0065P"
+required_firmware = "22.1.0"
+released = "2026-07-16"
+[[titles.updates]]
+version = "1.0.1"
+released = "2026-07-22"
+[[titles.updates]]
+version = "1.0.2"
+released = "2026-08-07"
+
+[[titles]]
+name = "Star Fox"
+title_id = "0400E88025B1A000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = ""
+required_firmware = "21.2.0"
+released = "2026-06-18"
+[[titles.updates]]
+version = "1.1.0"
+released = "2026-06-24"
+[[titles.updates]]
+version = "1.2.0"
+released = "2026-09-30"
+
+[[titles]]
+name = "The Legend of Zelda: Ocarina of Time"
+title_id = "0400486024DEC000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AA9JA2BS0069M"
+required_firmware = "22.5.0"
+released = "2026-11-05"
+[[titles.updates]]
+version = "1.1.1"
+required_firmware = "23.0.1"
+released = "2026-11-05"
+
+[[titles]]
+name = "Yoshi and the Mysterious Book"
+title_id = "0400245021D2C000"
+notes = ""
+[[titles.updates]]
+version = "1.0.0"
+gamecard_back = "AAKGA6BS0063U"
+required_firmware = "21.2.0"
+released = "2026-05-21"
+[[titles.updates]]
+version = "1.0.1"
+released = "2026-06-10"
+[[titles.updates]]
+version = "1.0.2"
+released = "2026-07-09"
